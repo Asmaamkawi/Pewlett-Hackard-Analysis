@@ -5,6 +5,8 @@ PH is a company that would like to perform analysis to figure out who will be re
 **Results:** 
 
 After conducting this analysis, it looks like the company will have quite a few number of different positions that will need to be filled (9 unique positions). Please refer to the below table explaining the total number of employees who will be retiring from those positions. This analysis has been conducted with a consideration of employees’ birth date to determine retirement eligibility.
+
+
 ![Image](https://raw.githubusercontent.com/Asmaamkawi/Pewlett-Hackard-Analysis/main/Pewlett-Hackard-Analysis%20Folder/Data/retiring_titles.PNG)
 
 
